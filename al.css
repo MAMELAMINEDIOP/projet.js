@@ -1,0 +1,30 @@
+div{
+    border: solid;
+    padding: 10px;
+    text-align: right;
+    gap: 30px;
+    justify-content: space-between;
+    
+
+}
+
+.list{
+    display: inline flex;
+    
+    
+}
+.list:hover{
+    color:brown
+
+}
+.amine{
+    margin-right: auto;
+
+}
+.al{
+    background-color: red;
+    padding-bottom: 100px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 30px 15px;
+}
